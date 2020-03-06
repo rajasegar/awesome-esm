@@ -68,3 +68,4 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Pika](https://twitter.com/pikapkg)
 - [Fred K Schott](https://twitter.com/FredKSchott)
 - [John-David Dalton](http://twitter.com/jdalton)
+- [Guy Bedford](http://twitter.com/guybedford)
