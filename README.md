@@ -39,6 +39,7 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Webpack: Module Methods](https://webpack.js.org/api/module-methods/)
 - [Caniuse](https://caniuse.com/#search=modules)
 - [esm](https://www.npmjs.com/package/esm)
+- [jspm](https://jspm.io/)
 
 ## Talks/Videos
 - [Javascript Modules: From IIFEs to Common JS to ES6 Modules by Tyler McGinnis](https://www.youtube.com/watch?v=qJWALEoGge4)
@@ -56,6 +57,7 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [ES6 Modules: ES6 Import and Export - All possible ways](https://www.youtube.com/watch?v=ananPWEdfDA)
 - [Javascript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc)
 - [Let's learn ES6 - Modules](https://www.youtube.com/watch?v=aQr2bV1BPyE)
+- [Guy Bedford: Package Management for ES6 Modules (JSConf2014)](https://www.youtube.com/watch?v=szJjsduHBQQ)
 
 ## Podcasts
 
