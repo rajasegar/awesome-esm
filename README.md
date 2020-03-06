@@ -26,9 +26,36 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [An Introduction To Javascript ES6 Modules - StrongLoop](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/)
 - [7 Different Ways to Use ES Modules Today! - By Travis Fischer](https://hackernoon.com/7-different-ways-to-use-es-modules-today-fc552254ebf4)
 - [ES Modules and Node.js: Hard Choices](https://nodesource.com/blog/es-modules-and-node-js-hard-choices/)
+- [ES Modules in Node.js 12, from experimental to release](https://blog.logrocket.com/es-modules-in-node-js-12-from-experimental-to-release/)
+- [How to use ECMAScript modules with Node.js - LogRocket](https://blog.logrocket.com/how-to-use-ecmascript-modules-with-node-js/)
+- [Using Native Javascript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/)
+- [A Comprehensive Look at ES6 Modules](https://www.javascripttutorial.net/es6/es6-modules/)
+- [ES6 | Modules - GeeksforGeeks](https://www.geeksforgeeks.org/es6-modules/)
+- [Tomorrow's ES Modules Today!](https://medium.com/web-on-the-edge/tomorrows-es-modules-today-c53d29ac448c)
+
+
+## Tooling
+- [Rollup](https://rollupjs.org)
+- [Webpack: Module Methods](https://webpack.js.org/api/module-methods/)
+- [Caniuse](https://caniuse.com/#search=modules)
+- [esm](https://www.npmjs.com/package/esm)
 
 ## Talks/Videos
 - [Javascript Modules: From IIFEs to Common JS to ES6 Modules by Tyler McGinnis](https://www.youtube.com/watch?v=qJWALEoGge4)
+- [Javascript ES6 Modules by Web Dev Simplified](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+- [ES Modules, the Javascript Module System by Flavio Copes](https://flaviocopes.com/es-modules/)
+- [ES Modules in the Real World (Polymer Summit 2017)](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
+- [Javascript Modules with Import/Export Syntax (ES6)](https://www.youtube.com/watch?v=s9kNndJLOjg)
+- [ECMAScript Modules in Node](https://www.youtube.com/watch?v=teDVlOjOCT0)
+- [Javascript Modules: ES6 Import and Export by Kyle Robinson Young](https://www.youtube.com/watch?v=_3oSWwapPKQ)
+- [JavaScript Modules ES6 ES2015 Tutorial](https://www.youtube.com/watch?v=HqIkddLfCAk)
+- [JavaScript Modules in 100 Seconds](https://www.youtube.com/watch?v=qgRUr-YUk1Q)
+- [Userland implementations of ESM and Transpilers](https://www.youtube.com/watch?v=JcZ-FzfDq8A)
+- [import/export (modules) - Beau teaches Javascript](https://www.youtube.com/watch?v=Jqn_wjkSZwo)
+- [Importing and Export ES6 Modules in the Browser](https://www.youtube.com/watch?v=BLak5aR4qXw)
+- [ES6 Modules: ES6 Import and Export - All possible ways](https://www.youtube.com/watch?v=ananPWEdfDA)
+- [Javascript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc)
+- [Let's learn ES6 - Modules](https://www.youtube.com/watch?v=aQr2bV1BPyE)
 
 ## Podcasts
 
@@ -38,3 +65,4 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 ## Twitter
 - [Pika](https://twitter.com/pikapkg)
 - [Fred K Schott](https://twitter.com/FredKSchott)
+- [John-David Dalton](http://twitter.com/jdalton)
