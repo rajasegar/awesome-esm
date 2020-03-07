@@ -10,7 +10,7 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Official](#official)
 - [Articles](#articles)
 - [Tooling](#tooling)
-- [Talks/Videos](#talks/videos)
+- [Talks/Videos](#talksvideos)
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
 - [Twitter](#twitter)
