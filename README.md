@@ -2,7 +2,6 @@
 
 > A curated list of awesome ESM (EcmaScript Modules) resources
 
-`Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.`
 
 ES Modules is the ECMAScript standard for working with modules. While Node. js has been using the CommonJS standard for years, the browser never had a module system, as every major decision such as a module system must be first standardized by ECMAScript and then implemented by the browser.
 
