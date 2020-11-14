@@ -40,6 +40,7 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [A Comprehensive Look at ES6 Modules](https://www.javascripttutorial.net/es6/es6-modules/)
 - [ES6 | Modules - GeeksforGeeks](https://www.geeksforgeeks.org/es6-modules/)
 - [Tomorrow's ES Modules Today!](https://medium.com/web-on-the-edge/tomorrows-es-modules-today-c53d29ac448c)
+- [ES6 Modules, Node.js and the Michael Jackson Solution](https://medium.com/dailyjs/es6-modules-node-js-and-the-michael-jackson-solution-828dc244b8b)
 
 
 ## Tooling
@@ -49,11 +50,12 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Caniuse](https://caniuse.com/#search=modules)
 - [esm](https://www.npmjs.com/package/esm)
 - [jspm](https://jspm.io/)
+- [Skypack](https://skypack.dev)
+- [esm.sh](https://esm.sh)
 
 ## Talks/Videos
 - [JavaScript Modules: From IIFEs to Common JS to ES6 Modules by Tyler McGinnis](https://www.youtube.com/watch?v=qJWALEoGge4)
 - [JavaScript ES6 Modules by Web Dev Simplified](https://www.youtube.com/watch?v=cRHQNNcYf6s)
-- [ES Modules, the JavaScript Module System by Flavio Copes](https://flaviocopes.com/es-modules/)
 - [ES Modules in the Real World (Polymer Summit 2017)](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
 - [JavaScript Modules with Import/Export Syntax (ES6)](https://www.youtube.com/watch?v=s9kNndJLOjg)
 - [ECMAScript Modules in Node](https://www.youtube.com/watch?v=teDVlOjOCT0)
@@ -69,6 +71,12 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Guy Bedford: Package Management for ES6 Modules (JSConf2014)](https://www.youtube.com/watch?v=szJjsduHBQQ)
 
 ## Podcasts
+- [Understanding and Using ES Modules in Node](https://devchat.tv/js-jabber/jsj-434-understanding-and-using-es-modules-in-node-with-gil-tayar/) - Gil Tayar in JavaScript Jabber.
+- [ES Modules in Node Today!](https://devchat.tv/js-jabber/jsj-279-es-modules-in-node-today-with-john-david-dalton/) - John-David Dalton in JavaScript Jabber.
+- [Mikael schools us on ES Modules](https://changelog.com/jsparty/106) - Mikael in JS Party.
+- [Migrating to ES Modules](https://changelog.com/jsparty/137) - Fred K Schott joins Mikael & Chris in JS Party.
+- [Pika Dependency Management with Fred Schott](https://softwareengineeringdaily.com/2020/03/30/pika-dependency-management-with-fred-schott/) - Fred K Schott in SE Daily.
+- [Bundle because you want to, not because you need to](https://changelog.com/news/Zqaj/visit) - Fred K Schott in Changelog.
 
 ## Miscellaneous 
 
