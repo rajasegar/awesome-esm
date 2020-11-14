@@ -54,6 +54,8 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [esm.sh](https://esm.sh)
 
 ## Talks/Videos
+- [Snowpack, Webpack and The Third Age of JavaScript](https://www.youtube.com/watch?v=65R4th-rixM) - Fred K Schott in Cascadia JS 2020.
+- [Futuristic Web Development](https://www.youtube.com/watch?v=qSfdtmcZ4d0) - Rich Harris in Svelte Summit 2020.
 - [JavaScript Modules: From IIFEs to Common JS to ES6 Modules by Tyler McGinnis](https://www.youtube.com/watch?v=qJWALEoGge4)
 - [JavaScript ES6 Modules by Web Dev Simplified](https://www.youtube.com/watch?v=cRHQNNcYf6s)
 - [ES Modules in the Real World (Polymer Summit 2017)](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
