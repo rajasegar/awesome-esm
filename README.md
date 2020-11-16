@@ -11,7 +11,7 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Tooling](#tooling)
 - [Talks/Videos](#talksvideos)
 - [Podcasts](#podcasts)
-- [Miscellaneous](#miscellaneous)
+- [Discord](#discord)
 - [Twitter](#twitter)
 
 ## Official
@@ -80,7 +80,8 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Pika Dependency Management with Fred Schott](https://softwareengineeringdaily.com/2020/03/30/pika-dependency-management-with-fred-schott/) - Fred K Schott in SE Daily.
 - [Bundle because you want to, not because you need to](https://changelog.com/news/Zqaj/visit) - Fred K Schott in Changelog.
 
-## Miscellaneous 
+## Discord 
+- [ESModules](https://discord.gg/MCT6EzBJff) - The community for everyone excited about ES Modules and building “unbundled” apps.
 
 
 ## Twitter
