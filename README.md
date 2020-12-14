@@ -49,11 +49,12 @@ ES Modules is the ECMAScript standard for working with modules. While Node. js h
 - [Webpack: Module Methods](https://webpack.js.org/api/module-methods/)
 - [Caniuse](https://caniuse.com/#search=modules)
 - [esm](https://www.npmjs.com/package/esm)
-- [jspm](https://jspm.io/)
+- [jspm](https://jspm.org/)
 - [Skypack](https://skypack.dev)
 - [esm.sh](https://esm.sh)
+- [esm.run](https://esm.run)
 - [Buildless](https://buildless.site)
-- [Modern Web Dev](https:// modern-web.dev)
+- [Modern Web Dev](https://modern-web.dev)
 
 ## Talks/Videos
 - [Snowpack, Webpack and The Third Age of JavaScript](https://www.youtube.com/watch?v=65R4th-rixM) - Fred K Schott in Cascadia JS 2020.
